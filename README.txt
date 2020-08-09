@@ -1,3 +1,1 @@
-hello git and GIthub
-
-Sjsnxnxjxjd
+hello git and GitHub

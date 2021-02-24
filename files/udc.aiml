@@ -1,0 +1,11 @@
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>I HAVE NO ANSWER FOR THAT</template>
+  </category>
+   
+  <category>
+    <pattern>Hello</pattern>
+    <template>Hello World!</template>
+  </category>
+</aiml>
